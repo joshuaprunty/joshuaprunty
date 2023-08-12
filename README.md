@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshuaprunty
-- 👀 I’m interested in Data Structures, AI, and UI/UX Design
-- 🌱 I’m currently learning Web Development in React/TypeScript
+- 👀 I’m interested in Full-Stack Development, ML, and Game Design.
+- 🌱 I’m currently learning Frontend Development in React/TypeScript
 - 📫 How to reach me: joshprunty2025@u.northwestern.edu
 
 <!---

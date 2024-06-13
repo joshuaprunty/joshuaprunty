@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshuaprunty
-- 👀 I’m interested in Full-Stack Development, ML, and Game Design.
-- 🌱 I’m currently learning Frontend Development in React/TypeScript
+- 👀 Interested in Full-Stack Development, Embedded Systems, and Machine Learning
+- 🌱 I’m currently learning Rust for firmware development
 - 📫 How to reach me: joshprunty2025@u.northwestern.edu
 
 <!---
